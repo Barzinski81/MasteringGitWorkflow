@@ -1,0 +1,12 @@
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\bin\Debug\net9.0\SumLibrary.deps.json
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\bin\Debug\net9.0\SumLibrary.dll
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\bin\Debug\net9.0\SumLibrary.pdb
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.sourcelink.json
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.dll
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\refint\SumLibrary.dll
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\SumLibrary.pdb
+C:\Users\Ivan\Desktop\GIT\11\MasteringGitWorkflow\SumLibrary\obj\Debug\net9.0\ref\SumLibrary.dll
